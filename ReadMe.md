@@ -26,13 +26,17 @@ A tour planning chatbot built with Streamlit and Ollama, designed to provide use
 
 1. [ ] **Clone the repository**:
 
-
     ```bash
     git clone https://github.com/utsav-desai/TripAgent
     cd TripAgent
     ```
-2. [ ] **Run the app**:
+2. [ ] **Ollama setup**:
 
+    ```bash
+    pip install ollama
+    ollama pull llama3.1
+    ```
+3. [ ] **Run the app**:
 
     ```bash
     streamlit run app.py
