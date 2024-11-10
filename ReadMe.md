@@ -21,7 +21,9 @@ A tour planning chatbot built with Streamlit and Ollama, designed to provide use
 - **Pandas**: Data handling and city data processing
 - **SHA-256**: Password hashing for secure user authentication
 - **Pickle**: Storage of user data locally for quick access and preference retention
-- [ ] Installation
+- 
+
+## Installation
 
 1. [ ] **Clone the repository**:
 
