@@ -1,7 +1,5 @@
 # Tour Planning Chatbot
 
-![Tour Planning Chatbot](banner.jpg)
-
 A tour planning chatbot built with Streamlit and Ollama, designed to provide users with customized travel itineraries, weather forecasts, city maps, and optimized routes based on user preferences. This chatbot is built with a focus on ease of use and personalization, featuring user authentication, saved preferences, and interactive map visualization.
 
 ## Features
