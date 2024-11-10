@@ -1,0 +1,6 @@
+ollama
+streamlit
+folium
+pandas
+hashlib
+pickle
