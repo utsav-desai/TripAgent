@@ -108,7 +108,7 @@ def chatbot_ui():
             padding: 0;
         }
         .stTextInput > div > div > input {
-            background-color: #333333;
+            background-color: #1e1e1e;
             color: #ffffff;
             border-radius: 20px;
             padding: 10px;
@@ -129,14 +129,6 @@ def chatbot_ui():
             background-color: #2e2e2e;
             color: #ffffff;
         }
-        .banner {
-            position: relative;
-            width: 100%;
-            height: 250px;
-            background: url('banner.jpg') no-repeat center;
-            background-size: cover;
-            filter: brightness(0.4);
-        }
         .banner-text {
             position: absolute;
             top: 50%;
@@ -151,7 +143,6 @@ def chatbot_ui():
             background-color: #1e1e1e;
             padding: 20px;
             border-radius: 15px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
             margin-top: 20px;
         }
         </style>
